@@ -1,17 +1,17 @@
 ﻿
-#u11774 .text {
+#u11775 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u11774_text {
+#u11775_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u11775_img {
+#u11776_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -19,7 +19,7 @@
   width:29px;
   height:27px;
 }
-#u11775 {
+#u11776 {
   border-width:0px;
   position:absolute;
   left:1152px;
@@ -28,18 +28,18 @@
   height:27px;
   display:flex;
 }
-#u11775 .text {
+#u11776 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u11775_img.mouseOver {
+#u11776_img.mouseOver {
 }
-#u11775.mouseOver {
+#u11776.mouseOver {
 }
-#u11775_text {
+#u11776_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
